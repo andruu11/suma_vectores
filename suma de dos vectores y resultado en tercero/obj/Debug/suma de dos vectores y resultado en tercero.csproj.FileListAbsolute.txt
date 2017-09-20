@@ -1,0 +1,9 @@
+C:\Users\jhass\AppData\Local\Temporary Projects\suma de dos vectores y resultado en tercero\bin\Debug\suma de dos vectores y resultado en tercero.exe.config
+C:\Users\jhass\AppData\Local\Temporary Projects\suma de dos vectores y resultado en tercero\bin\Debug\suma de dos vectores y resultado en tercero.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\suma de dos vectores y resultado en tercero\bin\Debug\suma de dos vectores y resultado en tercero.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\suma de dos vectores y resultado en tercero\obj\Debug\suma de dos vectores y resultado en tercero.csprojResolveAssemblyReference.cache
+C:\Users\jhass\AppData\Local\Temporary Projects\suma de dos vectores y resultado en tercero\obj\Debug\suma de dos vectores y resultado en tercero.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\suma de dos vectores y resultado en tercero\obj\Debug\suma de dos vectores y resultado en tercero.pdb
+D:\ayudantia\proyectos-visualstudio\suma de dos vectores y resultado en tercero\suma de dos vectores y resultado en tercero\bin\Debug\suma de dos vectores y resultado en tercero.exe.config
+D:\ayudantia\proyectos-visualstudio\suma de dos vectores y resultado en tercero\suma de dos vectores y resultado en tercero\obj\Debug\suma de dos vectores y resultado en tercero.exe
+D:\ayudantia\proyectos-visualstudio\suma de dos vectores y resultado en tercero\suma de dos vectores y resultado en tercero\obj\Debug\suma de dos vectores y resultado en tercero.pdb
